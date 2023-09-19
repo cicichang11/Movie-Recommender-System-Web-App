@@ -32,10 +32,15 @@ A live demo of the movie recommender web app can be found here: [Demo for Movie 
 
 ## File Structure
 
-- `app.py`: Main Streamlit app code 
-- `model.pkl`: Trained recommendation model
-- `utils.py`: Functions for data loading and preprocessing
-- `requirements.txt`: Python package dependencies
+- `Recommender System.ipynb`: Jupyter notebook for model training
+- `data/`: Folder containing raw movie dataset 
+- `artifacts/`: Saved model files and other artifacts
+- `env/`: Virtual environment folder 
+- `src/`: Source code folder
+- `Procfile`: Heroku process file
+- `requirements.txt`: Python package dependencies 
+- `setup.py`: Python script for Heroku setup steps
+- `setup.sh`: Shell script to run before launching app
 
 
 ## Credits
