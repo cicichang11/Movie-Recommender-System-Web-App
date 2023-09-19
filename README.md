@@ -15,6 +15,7 @@ Users can input a movie title and the system will output the 5 most similar movi
 ### Data Source:
 
 The movie data comes from the [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv).
+The movie poster data from the [Movie - TMDb API](https://developer.themoviedb.org/reference/search-movie).
 
 ### Modeling Training Method:
 
