@@ -25,9 +25,9 @@ The model training code builds a similarity matrix using scikit-learn. The train
 
 A live demo of the movie recommender web app can be found here: [Demo for Movie Recommender System Web App](https://movie-recommender-system-cici-9b72d5b559c2.herokuapp.com/). Feel free to try it out with different movie titles!
 
-<img src="demo/1.png" alt="recommended results" width="70%">
+<img src="demo/1.png" alt="recommended results" width="80%">
 
-<img src="demo/2.png" alt="search bar" width="70%">
+<img src="demo/2.png" alt="search bar" width="80%">
 
 
 ## File Structure
