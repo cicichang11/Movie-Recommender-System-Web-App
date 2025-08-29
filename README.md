@@ -7,6 +7,11 @@
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)](https://github.com/yourusername/movie-recommender)
 [![Stars](https://img.shields.io/github/stars/yourusername/movie-recommender?style=social)](https://github.com/yourusername/movie-recommender)
 
+<div align="center">
+  <img src="img/movie1.png" alt="Movie Recommender Interface" width="600"/>
+  <p><em>🎬 Beautiful, responsive movie recommendation interface</em></p>
+</div>
+
 > A sophisticated, production-ready movie recommendation system that combines **content-based filtering** and **collaborative filtering** approaches to deliver personalized movie suggestions with a modern, responsive web interface.
 
 ## 🌟 Features
@@ -34,6 +39,11 @@
 - **Scalable Design**: Handles 5,000+ movies and 1,000+ users efficiently
 - **Error Handling**: Graceful fallbacks and user guidance
 - **Performance Optimized**: <0.002 seconds per recommendation
+
+<div align="center">
+  <img src="img/movie2.png" alt="Movie Recommendation Results" width="600"/>
+  <p><em>🎯 Smart recommendations with detailed movie information</em></p>
+</div>
 
 ## 🏗️ Architecture
 
@@ -68,6 +78,11 @@
 | **Accuracy** | Content: 0.85+ | 🎯 |
 
 ## 🚀 Quick Start
+
+<div align="center">
+  <img src="demo/movie_recommender.png" alt="Movie Recommender Demo" width="500"/>
+  <p><em>🚀 Get started in minutes with our automated setup</em></p>
+</div>
 
 ### **Prerequisites**
 - Python 3.7+
