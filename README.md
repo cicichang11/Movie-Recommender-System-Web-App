@@ -79,11 +79,6 @@
 
 ## 🚀 Quick Start
 
-<div align="center">
-  <img src="demo/movie_recommender.png" alt="Movie Recommender Demo" width="500"/>
-  <p><em>🚀 Get started in minutes with our automated setup</em></p>
-</div>
-
 ### **Prerequisites**
 - Python 3.7+
 - 4GB RAM minimum
