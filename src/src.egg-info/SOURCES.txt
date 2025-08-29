@@ -1,6 +1,7 @@
 README.md
 setup.py
 src/__init__.py
+src/recommender.py
 src/src.egg-info/PKG-INFO
 src/src.egg-info/SOURCES.txt
 src/src.egg-info/dependency_links.txt
