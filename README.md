@@ -348,10 +348,6 @@ python -m pytest tests/
 - Include type hints where appropriate
 - Write unit tests for new features
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **TMDB**: For providing the comprehensive movie dataset
@@ -359,36 +355,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **scikit-learn**: For robust machine learning tools
 - **Open Source Community**: For inspiration and continuous improvement
 
-## 📞 Support & Community
-
-### **Getting Help**
-- 📖 [Documentation](https://github.com/yourusername/movie-recommender/wiki)
-- 🐛 [Issue Tracker](https://github.com/yourusername/movie-recommender/issues)
-- 💬 [Discussions](https://github.com/yourusername/movie-recommender/discussions)
-- 📧 [Email Support](mailto:support@yourdomain.com)
-
-### **Community Channels**
-- 🐦 [Twitter](https://twitter.com/yourusername)
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 📺 [YouTube](https://youtube.com/@yourusername)
-
-## 🏆 Recognition
-
-- **Featured Project**: Highlighted in ML community showcases
-- **Academic Use**: Used in university courses and research
-- **Industry Adoption**: Referenced in recommendation system tutorials
-- **Open Source**: 100+ stars and growing community
-
----
-
-<div align="center">
-
-**🎬 Ready to discover amazing movies? Start recommending! 🎬**
-
-[![Get Started](https://img.shields.io/badge/Get%20Started-Now-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/movie-recommender)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red?style=for-the-badge&logo=streamlit)](https://your-app-url.streamlit.app)
-[![Documentation](https://img.shields.io/badge/Docs-Read%20More-green?style=for-the-badge&logo=readthedocs)](https://github.com/yourusername/movie-recommender/wiki)
-
-*Built with ❤️ by the Movie Recommender Team*
-
-</div>
